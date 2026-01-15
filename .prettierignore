@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Production builds
+.next/
+out/
+build/
+dist/
+
+# Environment variables
+.env*
+
+# Logs
+*.log
+
+# Coverage
+coverage/
+
+# Config files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Public assets
+public/
+
+# Generated files
+next-env.d.ts
